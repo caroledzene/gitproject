@@ -1,4 +1,7 @@
 welcome to Jomacs IT Solutions Inc.
 Located in Calgary, AB, Canada
-with remote offices in Netherlands
-Ghana, Nigeria, Morocco, USA and Italy.
+Jomacs provides services in the following areas:
+Web Development
+DevOps Engineering
+Software Development
+Data Science
